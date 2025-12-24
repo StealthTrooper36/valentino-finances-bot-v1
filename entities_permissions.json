@@ -1,0 +1,9 @@
+{
+    "entity name": {
+      "entity_type": "entity type (nation, group, organization)",
+      "entity_name": "entity name",
+      "user_permissions": {
+        "discord user id": ["view", "pay", "billing"]
+      }
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "valentino-foundation-bot-v1",
+  "version": "1.0.0",
+  "description": "Discord bot for Valentino finances",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.61",
+    "axios": "^1.6.2"
+  }
+}
