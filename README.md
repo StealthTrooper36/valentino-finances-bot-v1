@@ -1,5 +1,6 @@
 # Public API Documentation
-API Link:
+API Link: https://stapedial-stubbily-jedidiah.ngrok-free.dev
+
 **Authentication**
 All requests require an `api_key` header. Ask me to get an API key.
 
