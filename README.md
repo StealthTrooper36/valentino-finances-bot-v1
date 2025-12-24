@@ -1,7 +1,7 @@
 # Public API Documentation
-
+API Link:
 **Authentication**
-All requests require an `api_key` header.
+All requests require an `api_key` header. Ask me to get an API key.
 
 ---
 
